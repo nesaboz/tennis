@@ -3,3 +3,5 @@ training/tennis-ball-detection-6
 runs/detect
 yolov8x.pt
 .DS_Store
+.env
+yolo5_last.pt
