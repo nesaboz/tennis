@@ -1,7 +1,7 @@
 training/tennis-ball-detection-6
 .history
 runs/detect
-yolov8x.pt
+models/*
 .DS_Store
 .env
-yolo5_last.pt
+Pera.pem
