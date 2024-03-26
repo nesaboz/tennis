@@ -12,6 +12,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install python3-pip
 sudo apt install python3.10-venv
+sudo apt-get install -y libgl1-mesa-glx
 python3 -m venv venv
 source venv/bin/activate
 pip install jupyter notebook ipykernel
@@ -29,3 +30,6 @@ whereis python3.8
 sudo apt install -y python3.8-venv
 /usr/bin/python3.8 -m venv venv
 ```
+
+git config --global user.email "nesaboz@gmail.com"
+git config --global user.name "Nenad Bozinovic"
